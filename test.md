@@ -3,7 +3,7 @@
 <br>|&nbsp;&nbsp;&nbsp;3)&nbsp;&nbsp;URL ENCODE&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;18)&nbsp;&nbsp;FILE UPLOAD PAYLOAD
 <br>|&nbsp;&nbsp;&nbsp;4)&nbsp;&nbsp;HTML ENTITY ENCODE&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;19)&nbsp;&nbsp;INSIDE COMMENTS BYPASS
 <br>|&nbsp;&nbsp;&nbsp;5)&nbsp;&nbsp;SPLIT PAYLOAD&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;20)&nbsp;&nbsp;MUTATION PAYLOAD
-<br>|&nbsp;&nbsp;&nbsp;6)&nbsp;&nbsp;HEX ENCODE&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;21)&nbsp;&nbsp;MALFORMED IMG
+<br>|&nbsp;&nbsp;&nbsp;6)&nbsp;&nbsp;HEX ENCODE&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;21)&nbsp;&nbsp;MALFORMED IMG
 <br>|&nbsp;&nbsp;&nbsp;7)&nbsp;&nbsp;UTF-16 ENCODE&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;22)&nbsp;&nbsp;SPACE BYPASS
 <br>|&nbsp;&nbsp;&nbsp;8)&nbsp;&nbsp;UTF-32 ENCODE&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;23)&nbsp;&nbsp;DOWNLEVEL-HIDDEN BLOCK
 <br>|&nbsp;&nbsp;&nbsp;9)&nbsp;&nbsp;DELETE TAG&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;24)&nbsp;&nbsp;WAF BYPASS PAYLOADS
