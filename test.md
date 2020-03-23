@@ -10,6 +10,6 @@
 <br>|&nbsp;&nbsp;&nbsp;10)&nbsp;UNICODE ENCODE&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;25)&nbsp;&nbsp;CLOUDFLARE BYPASS PAYLOADS
 <br>|&nbsp;&nbsp;&nbsp;11)&nbsp;US-ASCII ENCODE&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;26)&nbsp;&nbsp;POLYGLOT PAYLOADS
 <br>|&nbsp;&nbsp;&nbsp;12)&nbsp;BASE64 ENCODE&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;27)&nbsp;&nbsp;ALERT PAYLOADS
-<br>|&nbsp;&nbsp;&nbsp;13)&nbsp;UTF-7 ENCODE&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;28)&nbsp;&nbsp;ALL CREATE PAYLOAD
-<br>|&nbsp;&nbsp;&nbsp;14)&nbsp;PARENTHESIS BYPASS&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;29)&nbsp;&nbsp;GO BACK MAIN MENU
+<br>|&nbsp;&nbsp;&nbsp;13)&nbsp;UTF-7 ENCODE&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;28)&nbsp;&nbsp;ALL CREATE PAYLOAD
+<br>|&nbsp;&nbsp;&nbsp;14)&nbsp;PARENTHESIS BYPASS&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;29)&nbsp;&nbsp;GO BACK MAIN MENU
 <br>|&nbsp;&nbsp;&nbsp;15)&nbsp;UTF-8 ENCODE&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;30)&nbsp;&nbsp;EXIT</p>
