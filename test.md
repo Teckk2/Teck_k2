@@ -1,7 +1,7 @@
 <p>|&nbsp;&nbsp;&nbsp;1)&nbsp;&nbsp;UPPER CASE&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;16)&nbsp;&nbsp;TAG BLOCK BREAKOUT
 <br>|&nbsp;&nbsp;&nbsp;2)&nbsp;&nbsp;UPPER AND LOWER CASE&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;17)&nbsp;&nbsp;SCRIPT BREAKOUT
 <br>|&nbsp;&nbsp;&nbsp;3)&nbsp;&nbsp;URL ENCODE&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;18)&nbsp;&nbsp;FILE UPLOAD PAYLOAD
-<br>|&nbsp;&nbsp;&nbsp;4)&nbsp;&nbsp;HTML ENTITY ENCODE&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;19)&nbsp;&nbsp;INSIDE COMMENTS BYPASS
+<br>|&nbsp;&nbsp;&nbsp;4)&nbsp;&nbsp;HTML ENTITY ENCODE&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;19)&nbsp;&nbsp;INSIDE COMMENTS BYPASS
 <br>|&nbsp;&nbsp;&nbsp;5)&nbsp;&nbsp;SPLIT PAYLOAD&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;20)&nbsp;&nbsp;MUTATION PAYLOAD
 <br>|&nbsp;&nbsp;&nbsp;6)&nbsp;&nbsp;HEX ENCODE&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;21)&nbsp;&nbsp;MALFORMED IMG
 <br>|&nbsp;&nbsp;&nbsp;7)&nbsp;&nbsp;UTF-16 ENCODE&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;22)&nbsp;&nbsp;SPACE BYPASS
