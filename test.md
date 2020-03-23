@@ -5,7 +5,7 @@
 <br>|&nbsp;&nbsp;&nbsp;5)&nbsp;&nbsp;SPLIT PAYLOAD&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;20)&nbsp;&nbsp;MUTATION PAYLOAD
 <br>|&nbsp;&nbsp;&nbsp;6)&nbsp;&nbsp;HEX ENCODE&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;21)&nbsp;&nbsp;MALFORMED IMG
 <br>|&nbsp;&nbsp;&nbsp;7)&nbsp;&nbsp;UTF-16 ENCODE&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;22)&nbsp;&nbsp;SPACE BYPASS
-<br>|&nbsp;&nbsp;&nbsp;8)&nbsp;&nbsp;UTF-32 ENCODE&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;23)&nbsp;&nbsp;DOWNLEVEL-HIDDEN BLOCK
+<br>|&nbsp;&nbsp;&nbsp;8)&nbsp;&nbsp;UTF-32 ENCODE&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;23)&nbsp;&nbsp;DOWNLEVEL-HIDDEN BLOCK
 <br>|&nbsp;&nbsp;&nbsp;9)&nbsp;&nbsp;DELETE TAG&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;24)&nbsp;&nbsp;WAF BYPASS PAYLOADS
 <br>|&nbsp;&nbsp;&nbsp;10)&nbsp;UNICODE ENCODE&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;25)&nbsp;&nbsp;CLOUDFLARE BYPASS PAYLOADS
 <br>|&nbsp;&nbsp;&nbsp;11)&nbsp;US-ASCII ENCODE&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;26)&nbsp;&nbsp;POLYGLOT PAYLOADS
